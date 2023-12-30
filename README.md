@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Myself Eshwarprasad D
+# I'm Eshwarprasad D
 
 ## 📍 Location
 Bangalore
