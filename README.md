@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 **Contact:**  
 - Email: eshwarprasad707@gmail.com 📧  
-- Phone: (+91) 9985303032 📱  
+- Phone: (+91) 9985383032 📱  
 - GitHub: [eshwarprasad09](https://github.com/eshwarprasad09) 🐙  
-- LinkedIn: [eshwarprasad-d](https://www.linkedin.com/in/eshwarprasad-d) 👔
+- LinkedIn [eshwarprasad-d](https://www.linkedin.com/in/eshwarprasad-d) 👔
 
 **Skills:**  
 - *Languages:* Java, Python, JavaScript, SQL 🚀  
