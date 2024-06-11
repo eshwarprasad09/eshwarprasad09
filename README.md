@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - *Technologies & Tools:* Spring Boot, Jax-RS, Java Jersey, Restful Web Services, JWT, OAuth 2.0, AWS, S3, SQS, Lambda, Kubernetes, Docker, Kafka, KMS, Microservices, Hibernate, Liquibase, Junit5, Mockito, Git, Jenkins, SonarQube. 🛠️
 
 ## Work Experience 🏢
-**Lowe’s Companies, Bangalore**  
+**Lowe’s, Bangalore**  
 *Software Engineer (Oct 2021 - Present)*  
 *Project: Supply Chain & Replenishment Program*
 - Solved complex problems and implemented critical features using Spring WebFlux and PostgreSQL R2DBC, enhancing the replenishment program.
