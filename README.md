@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 **Skills:**  
 - *Languages:* Java, Python, JavaScript, SQL 🚀  
-- *Technologies & Tools:* Spring Boot, Jax-RS, Java Jersey, Restful Web Services, JWT, OAuth 2.0, AWS, S3, SQS, Lambda, Kubernetes, Docker, Kafka, KMS, Microservices, Hibernate, Liquibase, Junit5, Mockito, Git, Jenkins, SonarQube. 🛠️
+- *Technologies & Tools:* Spring Boot, Spring Webflux, Jax-RS, Java Jersey, Restful Web Services, JWT, OAuth 2.0, AWS, S3, SQS, Lambda, Kubernetes, Docker, Kafka, KMS, Microservices, Hibernate, Liquibase, Junit5, Mockito, Git, Jenkins, SonarQube. 🛠️
 
 ## Work Experience 🏢
 **Lowe’s, Bangalore**  
