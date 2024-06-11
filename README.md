@@ -28,14 +28,14 @@ Here are some ideas to get you started:
 
 ## Work Experience 🏢
 **Lowe’s, Bangalore**  
-*Software Engineer (Oct 2021 - Present)*  
+*Software Engineer (Apr 2021 - Present)*  
 *Project: Supply Chain & Replenishment Program*
 - Solved complex problems and implemented critical features using Spring WebFlux and PostgreSQL R2DBC, enhancing the replenishment program.
 - Created reactive APIs and developed efficient Java solutions to meet intricate business requirements, ensuring high performance and scalability.
 - Achieved significant system responsiveness and operational efficiency improvements, leading to better decision-making and streamlined supply chain processes.
 
 **TCS, Pune**  
-*Software Engineer (Oct 2021 - Present)*  
+*Software Engineer (Oct 2021 - Apr 2024)*  
 *Project: OpenBanking HSBC*
 - Implemented decoupled authentication code, enhancing user login security.
 - Engineered OAuth 2.0-compliant APIs for secure exposure of user bank accounts.
