@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ## Work Experience 🏢
 **Lowe’s, Bangalore**  
-*Software Engineer (Apr 2021 - Present)*  
+*Software Engineer (Apr 2024 - Present)*  
 *Project: Supply Chain & Replenishment Program*
 - Solved complex problems and implemented critical features using Spring WebFlux and PostgreSQL R2DBC, enhancing the replenishment program.
 - Created reactive APIs and developed efficient Java solutions to meet intricate business requirements, ensuring high performance and scalability.
